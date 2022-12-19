@@ -1,17 +1,17 @@
-Describe in this file:
-
-- team organization, roles, communication
-- the rules to be respected by your future contributors
-
 # Contributing guidelines
 
 ## Team organization
+[Sébastien JACQ](https://github.com/sjthales) Lead development
 
-### Roles
+[Kevin EYSSARTIER](https://github.com/eyssartk) Support
 
 ## How to become a contributor
 
 ### Contributor License Agreements
+
+PR are welcomed !
+
+You can propose contribution in any License you want. No specification on your part will be evaluated as an Apache v2.0 License contribution.
 
 ### Contributing code
 
