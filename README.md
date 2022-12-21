@@ -2,7 +2,7 @@
 
 ## Get started
 
-CVA6 BAREMETAL BSP project purpose is to provides baremetal support for the CVA6 COREV APU on GENESYS2. More info on this target can be found in the [CVA6 repository](https://github.com/openhwgroup/cva6).
+CVA6 BAREMETAL BSP project purpose is to provide baremetal support for the CVA6 COREV APU on GENESYS2. More info on this target can be found in the [CVA6 repository](https://github.com/openhwgroup/cva6).
 
 Only the 32 bits version is available yet. The 64 bits version is a WIP.
 
